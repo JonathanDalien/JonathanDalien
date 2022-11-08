@@ -61,12 +61,12 @@ My name is Jonathan and I'm currently working on to be a Full Stack Web Develope
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
         width="48"
         height="48"
         alt="Material UI"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>NextJs</strong>
     </td>
   </tr>
   <tr>
