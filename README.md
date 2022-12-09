@@ -52,12 +52,12 @@ My name is Jonathan and I'm currently working on to be a Full Stack Web Develope
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
         width="48"
         height="48"
-        alt="Redux"
+        alt="Taillwindcss"
       />
-      <br /><strong>Redux</strong>
+      <br /><strong>TailwindCSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
